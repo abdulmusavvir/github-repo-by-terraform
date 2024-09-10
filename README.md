@@ -1,2 +1,2 @@
 # github-repo-by-terraform
-Github repo created by terraform
+Github repo created by terraform ---manually
